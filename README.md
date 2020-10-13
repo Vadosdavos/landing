@@ -1,2 +1,2 @@
-# Vadosdavosite.github.io
+# landing
 мой первый хостинг
